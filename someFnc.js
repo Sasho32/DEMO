@@ -1,0 +1,3 @@
+function smFn(){
+  return true;
+}
